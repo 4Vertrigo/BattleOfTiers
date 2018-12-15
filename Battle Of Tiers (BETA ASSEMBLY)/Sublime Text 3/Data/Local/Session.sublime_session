@@ -1,0 +1,786 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3065,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"loop",
+						"loopEndGame"
+					],
+					[
+						"moveFunction_",
+						"moveFunction_erase"
+					],
+					[
+						"segue",
+						"segueOJogo"
+					],
+					[
+						"leve",
+						"Level"
+					],
+					[
+						"Ex",
+						"Experience"
+					],
+					[
+						"showI",
+						"showInitialSkillsPosCombat"
+					],
+					[
+						"normalS",
+						"normalSequenceZ"
+					],
+					[
+						"Vi",
+						"VitalityEnemy"
+					],
+					[
+						"Hea",
+						"HealthPointsEnemy"
+					],
+					[
+						"enBas",
+						"endBasicA"
+					],
+					[
+						"Att",
+						"AttackDamage"
+					],
+					[
+						"amor",
+						"amorLesserThenMDP"
+					],
+					[
+						"Col",
+						"ColiseumMsn2"
+					],
+					[
+						"Armor",
+						"ArmorEnemy"
+					],
+					[
+						"Power",
+						"PowerProbality"
+					],
+					[
+						"No",
+						"NormalProbalitySequence"
+					],
+					[
+						"Def",
+						"DefenseEnemy"
+					],
+					[
+						"conti",
+						"continueBasic"
+					],
+					[
+						"item",
+						"item8Flag"
+					],
+					[
+						"normalMag",
+						"normalMagicCall"
+					],
+					[
+						"normalMa",
+						"normalMagicCall"
+					],
+					[
+						"veri",
+						"verifySuccess"
+					],
+					[
+						"Ba",
+						"BasicMagicFlag"
+					],
+					[
+						"moveBa",
+						"moveBasicMagic_End2"
+					],
+					[
+						"moveBasi",
+						"moveBasicMagic_End"
+					],
+					[
+						"Colo",
+						"ColorCharEnemy"
+					],
+					[
+						"Posi",
+						"PositionEnemy"
+					],
+					[
+						"Powe",
+						"PowerMagicFlag"
+					],
+					[
+						"Nor",
+						"NormalMagicFlag"
+					],
+					[
+						"Basic",
+						"basicMagic"
+					],
+					[
+						"basic",
+						"basicMagic"
+					],
+					[
+						"Previ",
+						"PrevisiousPositionBasicMagic"
+					],
+					[
+						"Position",
+						"PositionBasicMagic"
+					],
+					[
+						"en",
+						"endCombatFunction_Loop"
+					],
+					[
+						"squa",
+						"squatFunctionCall"
+					],
+					[
+						"sq",
+						"squatFunction"
+					],
+					[
+						"Sq",
+						"squatFlag"
+					],
+					[
+						"Pos",
+						"PositionEnemy"
+					],
+					[
+						"your",
+						"yourTurn"
+					],
+					[
+						"move",
+						"moveFunctionD"
+					],
+					[
+						"com",
+						"combatFunction_Loop"
+					],
+					[
+						"end",
+						"endColiseum"
+					],
+					[
+						"normalSequence",
+						"normalSequence4"
+					],
+					[
+						"Mag",
+						"MagicDamageEnemy"
+					],
+					[
+						"Magic",
+						"MagicDamageEnemy"
+					],
+					[
+						"At",
+						"AttackDamage"
+					],
+					[
+						"He",
+						"HealthPointsEnemy"
+					],
+					[
+						"Color",
+						"ColorCharEnemy"
+					],
+					[
+						"Hel",
+						"HealthPointsEnemy"
+					],
+					[
+						"Leve",
+						"LevelEnemy"
+					],
+					[
+						"IncreaseDe",
+						"increaseDefenceEnemy"
+					],
+					[
+						"increaseA",
+						"increaseAttack"
+					],
+					[
+						"St",
+						"StrengthEnemy"
+					],
+					[
+						"increase",
+						"increaseAttack"
+					],
+					[
+						"for",
+						"forInShowStatsEnemy"
+					],
+					[
+						"Name",
+						"NameEnemy"
+					],
+					[
+						"show",
+						"showStatsEnemy"
+					],
+					[
+						"create",
+						"createEnemy"
+					],
+					[
+						"back",
+						"backToCityFromColiseum"
+					],
+					[
+						"Clou",
+						"ColiseumMsn11"
+					],
+					[
+						"print",
+						"printfn"
+					],
+					[
+						"teste",
+						"testestring"
+					],
+					[
+						"nor",
+						"normalSequence2"
+					],
+					[
+						"in",
+						"inColiseum"
+					],
+					[
+						"norma",
+						"normalSequence3"
+					],
+					[
+						"S",
+						"Strength"
+					],
+					[
+						"C",
+						"ColiseumMsn6"
+					],
+					[
+						"Do",
+						"DowntownMsn1"
+					],
+					[
+						"normal",
+						"normalSequence2"
+					],
+					[
+						"nom",
+						"normalSequence1"
+					],
+					[
+						"Down",
+						"DowntownMsn10"
+					],
+					[
+						"Magi",
+						"MagicDamage"
+					],
+					[
+						"Ma",
+						"MagicDamage"
+					],
+					[
+						"Atack",
+						"AttackDamage"
+					],
+					[
+						"D",
+						"DowntownMsn10"
+					],
+					[
+						"to",
+						"toBuyAD_case1"
+					],
+					[
+						"down",
+						"DowntownMsn4"
+					],
+					[
+						"buy",
+						"buyItemAD"
+					],
+					[
+						"j",
+						"jle	Jump (Lesser)"
+					],
+					[
+						"don",
+						"downtown"
+					],
+					[
+						"enter",
+						"enterInShop"
+					],
+					[
+						"take",
+						"takeStdinToWalk_End"
+					],
+					[
+						"Dow",
+						"DowntownMsn2"
+					],
+					[
+						"walk",
+						"walkInDowntown_erase"
+					],
+					[
+						"walkIn",
+						"walkInDowntown_draw"
+					],
+					[
+						"scanf",
+						"scanfChar"
+					],
+					[
+						"prin",
+						"printfCreateChar"
+					],
+					[
+						"Ha",
+						"HabilityPoints"
+					],
+					[
+						"incre",
+						"increaseStrength"
+					],
+					[
+						"A",
+						"Agility"
+					],
+					[
+						"mo",
+						"mod	Mod"
+					],
+					[
+						"clear",
+						"clearScreen"
+					],
+					[
+						"digL",
+						"digLetra_Loop"
+					],
+					[
+						"inc",
+						"incloop"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Vertrigo/Desktop/Facul/Simulador/BattleOfTiers.asm",
+					"settings":
+					{
+						"buffer_size": 156282,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Assembly ICMC/Assembly ICMC.sublime-build",
+			"command_palette":
+			{
+				"height": 81.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Vertrigo/Desktop/Facul/Simulador/nave.asm",
+				"/C/Users/Vertrigo/Desktop/Facul/Simulador/Hello4.asm",
+				"/C/Users/Vertrigo/Desktop/Facul/Simulador/jogo.asm",
+				"/D/Simulador/Hello4.asm",
+				"/D/Teste Ambiente/Hello4.asm",
+				"/D/Teste Ambiente/leString.asm",
+				"/D/Teste Ambiente/forca.asm",
+				"/D/Teste Ambiente - Copia/Hello4.asm",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Teste Ambiente/printForca.asm",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Packages/User/untitled.sublime-build",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.561/Assembly ICMC.sublime-build",
+				"/D/Documentos/USP/Prat_OrgC/Versao_05_2013/32_bits/Forca01.asm",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.040/Completion Rules.tmPreferences",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.959/C++.tmLanguage",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.091/C++.sublime-settings",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.196/C++.sublime-build",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.532/C.tmLanguage",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.207/Batch File.tmLanguage",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Cache/Assembly ICMC/Assembly_ICMC_Syntax.tmLanguage",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Packages/User/Assembly ICMC.sublime-build",
+				"/D/Documentos/USP/Prat_OrgC/Aula_2015-03-04/Hello4.asm",
+				"/D/Teste Ambiente/Hello4.mif",
+				"/D/Teste Ambiente/Versao_05_2013/Exemplos/Hello4.asm"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"MagicDa",
+					"PositionBasicMagic",
+					"PositionCombat",
+					"PositionE",
+					"MagicDamage",
+					"MagicDamageEnemy",
+					"ArmorEne",
+					"endCombatFunction_Loop",
+					"combatFun",
+					"Power",
+					"Normal",
+					"combatF",
+					"PrevisiousPositionPowerMagic",
+					"combat",
+					"CombatFun",
+					"Gold",
+					"takeStdinToWalkAD",
+					"ImprimeTela3",
+					"ImprimeTela3 ",
+					"DowntownMsn10",
+					"Experiencie",
+					"endColiseum",
+					"CreateCharMsn9",
+					"HabilityPoints",
+					"movebasicMagic",
+					"HabilityPoints",
+					"CreateCharMsn9",
+					"Experience",
+					"ExperiencieToNextLevel",
+					"ColiseumMsn16",
+					"backToCityFromColiseum",
+					"endColiseum",
+					"verifySuccess",
+					"MagicDamage",
+					"showStatsAux",
+					"rand",
+					"printfSkillPoint",
+					"ColiseumMsn6",
+					"loadn r1, #0\nloadn r2, #1\nload r4, teste",
+					"		loadn r1, #0\n		loadn r2, #1\n		load r4, teste",
+					"Basic",
+					"store FlagTiro,",
+					"store BasicMagicFlag,",
+					"Move",
+					"MoveTiro",
+					"walkInDowntown_draw",
+					"rand",
+					"delay",
+					"walkInDowntown_draw",
+					"TakeStdinToWalk",
+					"takeStdinToWalk",
+					"store Position",
+					"tela1",
+					"imprimeTela2",
+					"coliseum0",
+					"shop1",
+					"MagicDamage",
+					"walkInDowntown_draw",
+					"loadn r2, #Enemy",
+					"loadn r2, #Enemy0Name",
+					"store NameEnemy, r2",
+					"#indexRand",
+					"normalSequence18",
+					"normalSequence5",
+					"normalSequence4",
+					"MagicDamage",
+					"ColorChar",
+					"tela1Linha0",
+					"item0Name",
+					"enemy",
+					"rand",
+					"backT",
+					"Level",
+					"ColiseumMsn5",
+					"halt",
+					"Experience",
+					"printfSkillPoint",
+					"printfSkill",
+					"defence",
+					"Defence",
+					"DowntownMsn1",
+					"DowntownMsn1 ",
+					"DowntownMsn1",
+					"shop0",
+					"shop",
+					"shop0",
+					"r2",
+					"Flag",
+					"itemFlag",
+					"jnz",
+					"showGold",
+					"DownTownMsn2",
+					"ShowGold",
+					"showGold",
+					"Date",
+					"switch",
+					"Palavra",
+					"arsenall",
+					"shop",
+					"arsenall",
+					"palavra",
+					"mostra",
+					"certa",
+					"mod",
+					"nameSize",
+					"tiro",
+					"atirar",
+					"811",
+					"H",
+					"^^^",
+					"inchar",
+					"Palavra",
+					"Erro",
+					"ERRO",
+					"loadi",
+					"Erro",
+					"acerto",
+					"parametros",
+					"ApagaTela",
+					"outchar",
+					"teclado",
+					"enter",
+					"r*",
+					"r3",
+					"r2",
+					"r3"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Basic",
+					"Power",
+					"power",
+					"Power",
+					"Normal",
+					"normal",
+					"Normal",
+					"power",
+					"Power",
+					"power",
+					"normal",
+					"Normal",
+					"coliseum1",
+					"coliseum0",
+					"loadn r1, #Enemy",
+					"loadn r1, #Enemy0Name",
+					"",
+					"normalSequence18",
+					"normalSequence17",
+					"normalSequence16",
+					"normalSequence15",
+					"normalSequence14",
+					"normalSequence13",
+					"normalSequence12",
+					"normalSequence11",
+					"normalSequence10",
+					"normalSequence9",
+					"normalSequence8",
+					"normalSequence7",
+					"normalSequence6",
+					"normalSequence5",
+					"Defense",
+					"Name",
+					"shop",
+					"arsenall",
+					"shop"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Vertrigo/Desktop/Facul/Simulador/BattleOfTiers.asm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 156282,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9121,
+										9121
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Assembly ICMC/Assembly ICMC.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 6274.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 175.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,646,31,107,687",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
